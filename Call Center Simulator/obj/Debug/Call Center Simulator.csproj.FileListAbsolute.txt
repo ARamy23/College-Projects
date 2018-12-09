@@ -1,0 +1,6 @@
+/Users/macbook/RiderProjects/College/Call Center Simulator/bin/Debug/Call_Center_Simulator.exe
+/Users/macbook/RiderProjects/College/Call Center Simulator/bin/Debug/Call_Center_Simulator.pdb
+/Users/macbook/RiderProjects/College/Call Center Simulator/obj/Debug/Call Center Simulator.csprojAssemblyReference.cache
+/Users/macbook/RiderProjects/College/Call Center Simulator/obj/Debug/Call Center Simulator.csproj.CoreCompileInputs.cache
+/Users/macbook/RiderProjects/College/Call Center Simulator/obj/Debug/Call_Center_Simulator.exe
+/Users/macbook/RiderProjects/College/Call Center Simulator/obj/Debug/Call_Center_Simulator.pdb
